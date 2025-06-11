@@ -16,9 +16,7 @@ Reset and New Game options
 Responsive design for various screen sizes
 
 📂 Project Structure
-bash
-Copy
-Edit
+<Br>
 ├── index.html       # Main HTML structure
 
 ├── ninth.css        # Styling for layout and components
