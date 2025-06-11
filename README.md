@@ -1,6 +1,7 @@
 # Tic-Tac-Toe
 
 Tic-Tac-Toe 🎮
+<br>
 A simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 
 🔧 Features
@@ -19,10 +20,15 @@ bash
 Copy
 Edit
 ├── index.html       # Main HTML structure
+
 ├── ninth.css        # Styling for layout and components
+
 ├── ninth.js         # Game logic and interactivity
+
 └── README.md        # Project documentation
+
 💡 How It Works
+
 CSS (ninth.css):
 
 Centers the game on the screen.
@@ -50,8 +56,6 @@ Open index.html in a browser.
 
 Start playing the game by clicking on the boxes.
 
-📸 Screenshot
-(Add a screenshot of the game interface here if possible.)
 
-📃 Credits
+📃 Credits <br>
 Made as a beginner-friendly project to practice DOM manipulation, event handling, and CSS styling.
